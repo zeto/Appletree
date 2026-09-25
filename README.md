@@ -1,3 +1,5 @@
+<img width="1452" height="918" alt="Screenshot 2026-09-25 at 18 52 06" src="https://github.com/user-attachments/assets/c4c6b992-dc74-405b-a39a-3bc953a68116" />
+
 # Appletree
 
 A macOS treemap for finding what fills a disk, marking it, and removing it. The behavior follows [disktree](https://github.com/tobi/disktree) by Tobi Lütke. This is a SwiftUI reimplementation, not a translation of that code. disktree is MIT licensed.
